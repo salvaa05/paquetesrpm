@@ -4,4 +4,6 @@
 
 ## [Distribución de rocky linux](distribucion.md)
 
+## [Repositorios](repositorios.md)
+
 ## [Caso práctico](caso_practico.md)
