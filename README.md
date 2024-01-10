@@ -1,6 +1,6 @@
 # Paquetesrpm
 # Indice
-## [¿Qué son los paquetes rpm?](paquetesrpm.md)
+## [¿Qué son los paquetes rpm?](Paquetesrpm.md)
 
 ## Distribución de rocky linux
 
