@@ -1,3 +1,5 @@
+![RPM](rpm.jpg)
+
 Los paquetes RPM son un formato de archivo y un conjunto de herramientas utilizados en sistemas operativos basados en Linux, especialmente en distribuciones como Red Hat Enterprise Linux.
 Estos paquetes contienen archivos binarios, scripts de instalación y metadatos relacionados con la aplicación o software que están destinados a ser instalados en un sistema Linux. El formato RPM facilita la administración del software, ya que los paquetes pueden contener toda la información necesaria para la instalación, actualización o eliminación de un programa.
 
