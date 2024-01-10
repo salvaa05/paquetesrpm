@@ -4,4 +4,4 @@
 
 ## [Distribución de rocky linux](distribucion.md)
 
-## Caso práctico
+## [Caso práctico](caso_practico.md)
