@@ -1,7 +1,7 @@
 # Paquetesrpm
-## Indice
-¿Qué son los paquetes rpm?
+# Indice
+## ¿Qué son los paquetes rpm?
 
-Distribución de rocky linux
+## Distribución de rocky linux
 
-Caso práctico
+## Caso práctico
