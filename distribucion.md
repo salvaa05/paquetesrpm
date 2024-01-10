@@ -1,3 +1,4 @@
+![distribucion](rocky-linux-stackscale.jpg)
 A continuación, se presentan algunas características generales que se esperaban en Rocky Linux:
 
   * ## Compatibilidad RHEL:
